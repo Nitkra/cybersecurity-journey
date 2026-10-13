@@ -64,4 +64,4 @@ I learned that discovering a web path is different from proving a security vulne
 
 **Evidence integrity:** This report describes activity in an authorized training lab. It does not claim professional experience or independent mastery.
 
-**Publication status:** Draft being added to GitHub; publication is not yet verified.
+**Publication status:** Published on GitHub; public accessibility verified on October 13, 2026.
